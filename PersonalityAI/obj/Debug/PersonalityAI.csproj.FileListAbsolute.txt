@@ -1,0 +1,1 @@
+c:\users\jlatteux\documents\visual studio 2012\Projects\PersonalityAI\PersonalityAI\bin\Debug\PersonalityAI.exe.config
