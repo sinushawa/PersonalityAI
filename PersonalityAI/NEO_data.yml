@@ -1,0 +1,168 @@
+---
+            domains:
+               - 
+	               name: Neuroticism
+	               traits:
+               			-
+               				name: Anxiety
+               				stats:
+               					- male: {min:0.0, max:29.0, mean:12.2, delta:4.6}
+               					- female: {min:1.0, max:27.0, mean:13.5, delta:4.7}
+               			-
+               				name: Hostility
+               				stats:
+               					- male: {min:0.0, max:28.0, mean:9.4, delta:4.5}
+               					- female: {min:0.0, max:21.0, mean:9.9, delta:4.1}
+               			-
+               				name: Depression
+               				stats:
+               					- male: {min:0.0, max:30.0, mean:9.4, delta:5.2}
+               					- female: {min:1.0, max:28.0, mean:10.2, delta:4.9}
+               			-
+               				name: Consciousness
+               				stats:
+               					- male: {min:0.0, max:28.0, mean:11.2, delta:4.3}
+               					- female: {min:1.0, max:24.0, mean:11.8, delta:4.5}
+               			-
+               				name: Impulsiveness
+               				stats:
+               					- male: {min:0.0, max:29.0, mean:13.9, delta:4.5}
+               					- female: {min:1.0, max:28.0, mean:14.6, delta:4.6}
+               			-
+               				name: Vulnerability
+               				stats:
+               					- male: {min:0.0, max:21.0, mean:6.3, delta:3.6}
+               					- female: {min:0.0, max:20.0, mean:7.2, delta:3.8}
+               	- 
+	               name: Extraversion
+	               traits:
+               			-
+               				name: Warmth
+               				stats:
+               					- male: {min:8.0, max:32.0, mean:23.4, delta:3.9}
+               					- female: {min:13.0, max:32.0, mean:25.0, delta:3.4}
+               			-
+               				name: Gregariousness
+               				stats:
+               					- male: {min:2.0, max:31.0, mean:19.6, delta:4.6}
+               					- female: {min:4.0, max:30.0, mean:19.7, delta:4.4}
+               			-
+               				name: Assertiveness
+               				stats:
+               					- male: {min:5.0, max:32.0, mean:21.0, delta:4.4}
+               					- female: {min:5.0, max:31.0, mean:20.5, delta:4.5}
+               			-
+               				name: Activity
+               				stats:
+               					- male: {min:6.0, max:32.0, mean:21.6, delta:4.1}
+               					- female: {min:9.0, max:31.0, mean:21.9, delta:4.0}
+               			-
+               				name: Excitement
+               				stats:
+               					- male: {min:5.0, max:31.0, mean:17.8, delta:4.6}
+               					- female: {min:4.0, max:30.0, mean:16.5, delta:4.7}
+               			-
+               				name: Positive
+               				stats:
+               					- male: {min:4.0, max:32.0, mean:21.9, delta:4.7}
+               					- female: {min:6.0, max:32.0, mean:23.2, delta:4.4}
+               	- 
+	               name: Openness
+	               traits:
+               			-
+               				name: Fantasy
+               				stats:
+               					- male: {min:1.0, max:30.0, mean:17.2, delta:4.7}
+               					- female: {min:4.0, max:32.0, mean:17.8, delta:4.7}
+               			-
+               				name: Aesthetics
+               				stats:
+               					- male: {min:1.0, max:31.0, mean:18.7, delta:5.9}
+               					- female: {min:5.0, max:32.0, mean:20.3, delta:5.3}
+               			-
+               				name: Feelings
+               				stats:
+               					- male: {min:9.0, max:32.0, mean:21.4, delta:4.2}
+               					- female: {min:2.0, max:32.0, mean:22.9, delta:3.9}
+               			-
+               				name: Actions
+               				stats:
+               					- male: {min:8.0, max:31.0, mean:20.1, delta:4.2}
+               					- female: {min:8.0, max:32.0, mean:21.2, delta:3.8}
+               			-
+               				name: Ideas
+               				stats:
+               					- male: {min:1.0, max:32.0, mean:21.7, delta:5.0}
+               					- female: {min:6.0, max:32.0, mean:21.5, delta:4.8}
+               			-
+               				name: Values
+               				stats:
+               					- male: {min:8.0, max:32.0, mean:23.9, delta:3.6}
+               					- female: {min:9.0, max:31.0, mean:24.1, delta:3.1}
+               	- 
+	               name: Agreeableness
+	               traits:
+               			-
+               				name: Trust
+               				stats:
+               					- male: {min:1.0, max:32.0, mean:22.6, delta:4.1}
+               					- female: {min:5.0, max:32.0, mean:22.8, delta:4.1}
+               			-
+               				name: Straightforwardness
+               				stats:
+               					- male: {min:3.0, max:31.0, mean:19.5, delta:4.5}
+               					- female: {min:9.0, max:32.0, mean:20.2, delta:4.2}
+               			-
+               				name: Altruism
+               				stats:
+               					- male: {min:12.0, max:32.0, mean:23.7, delta:3.4}
+               					- female: {min:12.0, max:32.0, mean:25.0, delta:3.2}
+               			-
+               				name: Compliance
+               				stats:
+               					- male: {min:5.0, max:30.0, mean:18.9, delta:4.1}
+               					- female: {min:6.0, max:32.0, mean:19.6, delta:3.9}
+               			-
+               				name: Modesty
+               				stats:
+               					- male: {min:5.0, max:32.0, mean:18.1, delta:4.4}
+               					- female: {min:7.0, max:30.0, mean:18.6, delta:4.1}
+               			-
+               				name: Tender
+               				stats:
+               					- male: {min:6.0, max:31.0, mean:19.6, delta:3.5}
+               					- female: {min:2.0, max:30.0, mean:20.5, delta:3.5}
+               	- 
+	               name: Conscientiousness
+	               traits:
+               			-
+               				name: Competence
+               				stats:
+               					- male: {min:11.0, max:32.0, mean:24.4, delta:3.5}
+               					- female: {min:13.0, max:32.0, mean:24.1, delta:3.5}
+               			-
+               				name: Order
+               				stats:
+               					- male: {min:5.0, max:31.0, mean:18.4, delta:4.4}
+               					- female: {min:5.0, max:30.0, mean:19.1, delta:4.5}
+               			-
+               				name: Dutifulness
+               				stats:
+               					- male: {min:9.0, max:32.0, mean:25.0, delta:3.6}
+               					- female: {min:15.0, max:32.0, mean:24.7, delta:3.8}
+               			-
+               				name: Achievement
+               				stats:
+               					- male: {min:7.0, max:32.0, mean:23.1, delta:4.0}
+               					- female: {min:11.0, max:31.0, mean:23.1, delta:4.1}
+               			-
+               				name: Discipline
+               				stats:
+               					- male: {min:7.0, max:32.0, mean:23.6, delta:4.3}
+               					- female: {min:8.0, max:32.0, mean:23.9, delta:4.3}
+               			-
+               				name: Deliberation
+               				stats:
+               					- male: {min:3.0, max:32.0, mean:19.0, delta:4.5}
+               					- female: {min:3.0, max:32.0, mean:18.5, delta:4.4}
+...
