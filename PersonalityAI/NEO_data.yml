@@ -166,3 +166,8 @@
                					- male: {min:3.0, max:32.0, mean:19.0, delta:4.5}
                					- female: {min:3.0, max:32.0, mean:18.5, delta:4.4}
 ...
+
+
+gamma function
+shape = range / deviation
+rate = shape / mean
